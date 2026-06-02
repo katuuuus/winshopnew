@@ -18,7 +18,7 @@ class Program
                 "qXy105YzBKRp2mdFbTFd8cMIvN6kDCP92RqEsMsymLs9Tj930kXOndB1wZd3tFTD"
             );
 
-            Console.WriteLine("🔐 TOKEN OK");
+            Console.WriteLine("🔐 token v pohode");
 
             // =========================
             // LOAD DATA
